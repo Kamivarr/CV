@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1775473053.01331 "/home/kamivarr/Documents/Latex/CV/cv.tex" "cv.pdf" "cv" 1775473056.27062 0
-  "/home/kamivarr/Documents/Latex/CV/cv.tex" 1775473052.56455 6914 22a785f1db2ad0590b81ebd653f38238 ""
+["pdflatex"] 1775474777.88905 "/home/kamivarr/Documents/Latex/CV/cv.tex" "cv.pdf" "cv" 1775474781.23123 0
+  "/home/kamivarr/Documents/Latex/CV/cv.tex" 1775474777.41324 7819 4f3719098b2b0bec439ba8e72581d85b ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
@@ -132,6 +132,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1459978653 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1465944070 1224 978390e9c2234eab29404bc21b268d1e ""
   "/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def" 1663965824 19448 1e988b341dda20961a6b931bcde55519 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty" 1654720880 7233 e46ce9241d2b2ca2a78155475fdd557a ""
   "/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty" 1654720880 18387 8f900a490197ebaf93c02ae9476d4b09 ""
   "/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty" 1654720880 8010 a8d949cbdbc5c983593827c9eec252e1 ""
   "/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty" 1654720880 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
@@ -169,9 +170,9 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1770681600 40900 887e0dc8cac988a9e9c574af364cf837 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1773516134.81633 4547957 ae4e693c1ef347abaec22c0b5d473ae3 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1775131077 7758594 cddb0b52111e6862e2d9139fd8bc2db0 ""
-  "cv.aux" 1775473056.0136 690 c34937b91f7ba55721855334863ff3ef "pdflatex"
-  "cv.out" 1775473054.10857 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv.tex" 1775473052.56455 6914 22a785f1db2ad0590b81ebd653f38238 ""
+  "cv.aux" 1775474780.93529 690 c34937b91f7ba55721855334863ff3ef "pdflatex"
+  "cv.out" 1775474779.01626 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv.tex" 1775474777.41324 7819 4f3719098b2b0bec439ba8e72581d85b ""
   "photo_01.png" 1775469239.34518 6828247 cd22d24fffba745b16da5c80cc73b69b ""
   (generated)
   "cv.aux"
